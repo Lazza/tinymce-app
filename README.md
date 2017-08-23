@@ -25,6 +25,7 @@ Then run it with:
 
     phonegap run osx
 
+The `patch` directory contains some files that are replaced in the Xcode project.
 
 ## License
 
