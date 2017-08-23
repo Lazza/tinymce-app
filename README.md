@@ -25,8 +25,6 @@ Then run it with:
 
     phonegap run osx
 
-Some files in the `platforms/osx/` directory are included in the repo because
-the template Xcode project has been modified manually.
 
 ## License
 

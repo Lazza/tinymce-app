@@ -1,5 +1,3 @@
 .DS_Store
 plugins/
-platforms/*/*www
-platforms/*/cordova
-platforms/*/CordovaLib
+platforms/*
