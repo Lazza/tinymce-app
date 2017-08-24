@@ -3,7 +3,7 @@
 #### A very simple TinyMCE app created with PhoneGap
 
 Sometimes you need to visually edit a bit of rich formatted text which needs to
-be in HTML format. You might want to format add some tidy formatting to a Gmail
+be in HTML format. You might want to add some tidy formatting to a Gmail
 message or to compose a richer note to paste into Evernote.
 
 Word processors are not suitable for this task because the code they produce is
